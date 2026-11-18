@@ -1,5 +1,5 @@
 {
-  "name"       : "beapi/bea-disable-seo
+  "name"       : "beapi/bea-disable-seo",
   "description": "Disable SEO plugins on dev",
   "type"       : "wordpress-plugin",
   "license"    : "GPL-3.0+",
@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "composer/installers": "~1.0"
+    "composer/installers": "^1.0 || ^2.0"
   }
 }
